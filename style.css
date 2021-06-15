@@ -1,3 +1,7 @@
+.home {
+    
+}
+
 .particles-js {
     height: 100vh;
     width: 100%;
@@ -7,7 +11,7 @@
 }
 
 .banner-area {
-    right: 50%;
+    right: 60%;
     width: 100%;
     background-image: url(/assets/img/karsten-wurth-b_8eErngWm4-unsplash.jpg);
     background-size: cover;
@@ -70,7 +74,7 @@ svg #wheel {
 .sobre-mim {
     width: auto;
     height: 400px;
-   
+    background-color: #0e1018;
     font-size: 30px;
     color: rgb(49, 49, 49);
     text-align: center;
